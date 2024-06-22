@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DCDCDC&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F0D1&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Eliezer+Link;Seja+bem+vindo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4500&pause=1000&color=F7F0D1&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Eliezer+Link;Seja+bem+vindo)](https://git.io/typing-svg)
 
-<div align="rigth">  
+<div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EliezerLink&show_icons=true&count_private=true&hide_border=true&title_color=DCDCDC&icon_color=FFFFFF&text_color=DCDCDC&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliezerLink&layout=compact&hide_border=true&title_color=DCDCDC&text_color=DCDCDC&bg_color=0d1117" />
 </div>
